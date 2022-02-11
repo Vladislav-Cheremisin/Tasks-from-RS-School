@@ -8,3 +8,4 @@ I completed some tasks from old RS School courses. This repo is using for save a
 3. [Virtual Piano](https://vladislav-cheremisin.github.io/Tasks-from-RS-School/virtual-piano/index.html)
 4. [Eco-sounds](https://rolling-scopes-school.github.io/vladislav-cheremisin-JSFEPRESCHOOL/eco-sounds/)
 5. [Custom Audio Player](https://rolling-scopes-school.github.io/vladislav-cheremisin-JSFEPRESCHOOL/audio-player/)
+6. [Breaking Bad Quotes](https://elated-pare-505a18.netlify.app/)
